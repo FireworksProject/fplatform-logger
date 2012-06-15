@@ -1,0 +1,11 @@
+{
+"name": "fplatform-logger",
+"version": "0.1.0",
+"description": "Logging module for Fireworks Project Platform.X applications and services",
+    "dependencies": {
+        "bunyan": "0.8.0"
+    },
+    "devDependencies": {
+        "treadmill":"2.0.1"
+    }
+}

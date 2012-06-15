@@ -19,7 +19,7 @@ describe('logger', function () {
         return done();
     });
 
-    it('should', function (done) {
+    it('should log by level', function (done) {
         var buff = '';
         var stream = {
             write: function (chunk) {

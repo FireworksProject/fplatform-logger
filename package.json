@@ -3,9 +3,9 @@
 "version": "0.1.0",
 "description": "Logging module for Fireworks Project Platform.X applications and services",
     "dependencies": {
-        "bunyan": "0.8.0"
+        "bunyan": "0.16.7"
     },
     "devDependencies": {
-        "treadmill":"2.0.1"
+        "treadmill":"2.0.2"
     }
 }
